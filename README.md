@@ -1,2 +1,1 @@
 # ScumBeth
-permalink: /index.html
